@@ -23,6 +23,7 @@ export default function Header() {
                 >
                 </input>
                 <nav>
+                    <Link href="/hn">hn</Link>
                     <Link href="/item">item</Link>
                     <Link href="/">Home</Link>
                     <Link href="/explore">About</Link>
